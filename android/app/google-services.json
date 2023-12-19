@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628223778032",
+    "project_id": "authproject-e5a0c",
+    "storage_bucket": "authproject-e5a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628223778032:android:c206bf64720fdc6e40f635",
+        "android_client_info": {
+          "package_name": "com.example.modern_login_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1dAEQQCZzF2OSlkl5Dmazr3qo4lvKdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
